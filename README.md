@@ -12,4 +12,4 @@ Hey there! I'm Bartek. Let's me introduce myself:
 
 Feel free to contact! :cowboy_hat_face: :call_me_hand:
 
-![Linkedin Badge](https://img.shields.io/badge/-bartekslysz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartekslysz)
+[![Linkedin Badge](https://img.shields.io/badge/-bartekslysz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartekslysz)](https://www.linkedin.com/in/bartekslysz)
