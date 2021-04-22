@@ -1,7 +1,5 @@
 ## How do you do, fellow kids? :skateboard:
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
 - I started my programming adventure in 2013 creating simple websites.
 - With time I took the direction of development in Javascript, in which I became a self-proclaimed ninja.
 - On the way I met with the React library, which accompanies me in my work until today.
