@@ -1,13 +1,12 @@
 ## How do you do, fellow kids? :skateboard:
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='220"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-- My name is Bartek and my web development career started in 2013, when I was creating my first pages using HTML, CSS and PHP
-- Over time, I changed my target to JavaScript, in which I became a self-crowned ninja :eyes:
-- Along the way, I met the React library, with which I have to stay until today and use it on a daily basis at work
-- I have participated in projects using Vue and React Native
-- I am more and more willing to move towards the backend and designing application architecture, although I am familiar with the frontend and everything related to it
-- The language that has absorbed me recently is Go - I am closely watching its development and trying&nbsp;to&nbsp;grasp&nbsp;it
+- I started my programming adventure in 2013 creating simple websites.
+- With time I took the direction of development in Javascript, in which I became a self-proclaimed ninja.
+- On the way I met with the React library, which accompanies me in my work until today.
+- Apart from that I had to deal with various technology stacks including Nuxt, Express and even React Native.
+- More and more often I direct my development towards application architecture, learning new tools and languages, not focusing exclusively on the front-end.
 
 Feel free to contact :call_me_hand:
 
